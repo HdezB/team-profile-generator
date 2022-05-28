@@ -12,7 +12,7 @@ to a html template which creates the front end for the team.
 * JEST
 * NODE
 ## Image
-
+![Deployed team-profile-generator](https://user-images.githubusercontent.com/100795164/170845100-994f8485-c6fc-4c06-8713-78f63c1179a9.PNG)
 
 ## Contribution
 Made by Brian Hernandez
